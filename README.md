@@ -1,2 +1,2 @@
 # Networking
-playing around with socket programming in java to create a client-server model based quiz game
+playing around with socket programming in java by creating a quiz game based on the client server model.
